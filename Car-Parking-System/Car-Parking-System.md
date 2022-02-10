@@ -1,6 +1,6 @@
 ## Design a car parking system
 
-Let's say we have to **design a car parking system**
+Let's say we have to **design a car parking system**:
 
  - You are a manager of this system
  - There are n slot (rows) in the parking.
